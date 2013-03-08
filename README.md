@@ -16,13 +16,12 @@ PRACTISE
   
 *   [***被子植物门***][3]是植物界最大和最高级的1门。由少数（典型的是8个）细胞构成的胚囊和双受精现象被视为被子植物在进化上的一致性和与其他植物类群区别的证据。
 [3]: http://baike.baidu.com/view/8626.htm/"被子植物门"
-> <table border="1" width="350" cellpadding="10" font-size="12px">
+> <table border="1" width="350" cellpadding="10" font-size="60%" margin-left="20" caption-side="bottom">
 <caption>基本情况</caption>
 <tr align="center">
-<td>春菊 
-</td>
-<td>马兰头花</td>
-<td>延寿菊</td>
+<th>春菊 </th>
+<th>马兰头花</th>
+<th>延寿菊</th>
 <tr align=left>
 <td>植物门</td>
 <td>被子植物门</td>

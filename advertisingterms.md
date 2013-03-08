@@ -28,4 +28,4 @@
 * ***Ad Exchange***:互联网广告交易平台，Ad Exchange联系的是广告交易的买方和卖方，也就是广告主方和广告位拥有方。该平台的竞价机制是竞价获得，既为RTB模式。
 >*RTB*&lt;Real Time Bidding&gt;实时竞价。跟传统购买形式相比，RTB是在每一个广告展示曝光的基础上进行竞价，就是每一个PV都会进行一次展现竞价。
 * ***DSP***&lt;Demand-Side Platform&gt需求方平台，是一种在线广告平台。帮助广告主在互联网uozhe移动互联网上进行广告投放，DSP让广告主可以通过一个统一的接口来管理一个或者多个AD Exchang账号。
-> DSPyon>DSP拥有两个核心特征，
+> DSPyon>DSP拥有两个核心特征，adn方式额挖掘啊
